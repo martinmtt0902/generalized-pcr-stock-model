@@ -2,7 +2,11 @@
 
 This repository contains a financial modelling project that applies a Generalized Principal Component Regression (GPCR) framework to forecast intrinsic stock prices and study overpricing/underpricing patterns in Hong Kong stock data.
 
-The group project was completed as part of the course “RMSC4002 – Financial Data Analytics with Machine Learning” (Fall 2020) at The Chinese University of Hong Kong.
+The group project was completed as part of the course “RMSC4002 – Financial Data Analytics with Machine Learning” at The Chinese University of Hong Kong.
+
+## 📅 Project Information
+- Completion date: December 2020
+- Languages: R
 
 ------------------------------------------------------------
 PROJECT OVERVIEW
